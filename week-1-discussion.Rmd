@@ -69,7 +69,7 @@ rootdir <- "/Users/maxwellpatterson/Desktop/classes/eds222/"
 ```
 
 Take a look at the help files for `source()` and `file.path()` functions. We will use these a lot in Labs and homework assignments.
-```{r,include=TRUE, eval=FALSE, echo = FALSE} # LOOK INTO THIS 
+```{r,include=TRUE, eval=FALSE, echo = FALSE} # REFRESHER
 # `source()` is a helpful function for calling and running other R scripts.
 ?source
 
